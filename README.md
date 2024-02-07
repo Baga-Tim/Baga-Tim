@@ -6,15 +6,20 @@ it's a new passion for me, and very much enjoy learning new Technlogies.
 Usually very friendly and easy going with kinds peoples. My hobby and 
 European Soccer Leagues, playing Chess and Aftcan Arts. 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baga-Tim&show_icons=true&theme=radical)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baga-Tim)](https://github.com/anuraghazra/github-readme-stats)![image](https://github.com/Baga-Tim/Baga-Tim/assets/155672513/ea707d17-d1ea-4190-b462-1659f74208b0)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baga-Tim&hide_progress=true)
 
+<img alt="HTML5" src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
 
+<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baga-Tim&layout=compact)
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 
+<img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
 
 ### 2 -About me 👋
 
