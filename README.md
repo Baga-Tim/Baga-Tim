@@ -6,6 +6,12 @@ it's a new passion for me, and very much enjoy learning new Technlogies.
 Usually very friendly and easy going with kinds peoples. My hobby and 
 European Soccer Leagues, playing Chess and Aftcan Arts. 
 
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baga-Tim)](https://github.com/anuraghazra/github-readme-stats)![image](https://github.com/Baga-Tim/Baga-Tim/assets/155672513/ea707d17-d1ea-4190-b462-1659f74208b0)
+
+
+
 ### 2 -About me 👋
 
 Engineer in Systems Networks and Telecommunications, a
@@ -32,8 +38,6 @@ my linkedin at linkedin.com/abdoulaye.bagayoko
 or 
 Facebook.com/abdoulaye.bagayoko.
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baga-Tim)](https://github.com/anuraghazra/github-readme-stats)![image](https://github.com/Baga-Tim/Baga-Tim/assets/155672513/ea707d17-d1ea-4190-b462-1659f74208b0)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baga-Tim&layout=compact)
