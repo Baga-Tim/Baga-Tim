@@ -12,6 +12,10 @@ European Soccer Leagues, playing Chess and Aftcan Arts.
 
 
 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baga-Tim&layout=compact)
+
+
 ### 2 -About me 👋
 
 Engineer in Systems Networks and Telecommunications, a
@@ -39,5 +43,3 @@ or
 Facebook.com/abdoulaye.bagayoko.
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Baga-Tim&layout=compact)
